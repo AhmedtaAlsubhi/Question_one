@@ -5,7 +5,7 @@ public class MasdrJavaTest {
     
     public static void main(String[] args) {
         
-        //******   Here are some test of the program
+        //******   Here are some tests of the program
         
         
         //******   Bachelors
